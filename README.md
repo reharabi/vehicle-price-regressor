@@ -36,7 +36,6 @@ Used car pricing is inconsistent. Dealerships, private sellers, and buyers all f
 - 📓 **[Jupyter Notebook](https://github.com/reharabi/vehicle-price-regressor/blob/main/car_price_pred.ipynb)** — Full end-to-end Python pipeline notebook (Google Colab)
 - 📊 **[Executive Summary](EXECUTIVE_SUMMARY.md)** — Business-focused findings, price drivers, and recommendations
 - 🔬 **[Technical Analysis](TECHNICAL_ANALYSIS.md)** — Full engineering methodology, preprocessing, and modeling decisions
-- 📋 **[cars.csv](cars.csv)** — Project dataset *(Note: Place this in your Google Drive at `MyDrive/cars.csv` before running the notebook)*
 - 📝 **[README.md](README.md)** — This project overview file
 
 ---

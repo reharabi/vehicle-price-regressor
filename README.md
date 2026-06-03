@@ -32,7 +32,7 @@ Used car pricing is inconsistent. Dealerships, private sellers, and buyers all f
 ## Project Structure
 
 ```
-(https://github.com/reharabi/vehicle-price-regressor/blob/main/car_price_pred.ipynb)    ← Full pipeline notebook (Google Colab)
+[Notebook](https://github.com/reharabi/vehicle-price-regressor/blob/main/car_price_pred.ipynb)    ← Full pipeline notebook (Google Colab)
 cars.csv                      ← Dataset (place in Google Drive: MyDrive/cars.csv)
 README.md                     ← This file
 TECHNICAL_ANALYSIS.md         ← Full methodology and modelling decisions
